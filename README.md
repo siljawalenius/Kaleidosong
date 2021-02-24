@@ -2,4 +2,4 @@
 Make kaleidoscopes from some of my favourite albums!
 
 
-Check it out at : kaleidosong.netlify.app 
+Check it out at : http://www.kaleidosong.netlify.app 
